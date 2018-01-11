@@ -7,6 +7,6 @@ int main(){
 	std::cin >> name;
 	std::cout << "hello " << name << "!" << std::endl;
 
-	return 1;
+	return 0;
 }
 
